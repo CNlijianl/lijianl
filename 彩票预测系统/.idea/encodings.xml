@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/allpanel/Apanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/AllAddNumberframe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/ForecastAddframe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/HistoryAddframe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/HistoryUpdateframe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/SelectBonusframe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/SelectForecast.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/frame/SparBuoy.java" charset="GBK" />
+  </component>
+</project>
